@@ -1,0 +1,7 @@
+Awesome Landing Page weboldal szerkesztési feladathoz tartozó képek linkjei:
+
+https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/tree.png
+
+https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/deal.png
+
+https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/money.png
